@@ -2,8 +2,8 @@
 
 A clean, responsive web app that generates random quotes with a click.
 
-## Live Demo
-(https://itssalman095.github.io/Quote-Generator/)
+## 🚀 Demo
+[Live Demo](https://itssalman095.github.io/Quote-Generator/)
 
 ## Features
 - Generates random quotes on button click
